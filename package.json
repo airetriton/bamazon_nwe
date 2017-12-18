@@ -1,0 +1,23 @@
+{
+  "name": "bamazon_nwe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airetriton/bamazon_nwe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airetriton/bamazon_nwe/issues"
+  },
+  "homepage": "https://github.com/airetriton/bamazon_nwe#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
+}
